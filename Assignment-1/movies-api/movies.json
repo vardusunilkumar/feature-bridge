@@ -1,0 +1,143 @@
+[
+    {
+      "id": 1,
+      "name": "Movie 1",
+      "rating": 4.5,
+      "releasedDate": "2022-01-01",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut odio vitae dolor volutpat vehicula. Proin in tellus in tortor consectetur venenatis."
+    },
+    {
+      "id": 2,
+      "name": "Movie 2",
+      "rating": 4.2,
+      "releasedDate": "2021-11-15",
+      "description": "Integer quis bibendum dolor. Sed rhoncus odio eget tortor facilisis venenatis."
+    },
+    {
+      "id": 3,
+      "name": "Movie 3",
+      "rating": 3.8,
+      "releasedDate": "2020-08-30",
+      "description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas."
+    },
+    {
+      "id": 4,
+      "name": "Movie 4",
+      "rating": 4.0,
+      "releasedDate": "2019-05-10",
+      "description": "Vestibulum fringilla augue ut nunc convallis, ac hendrerit dolor facilisis."
+    },
+    {
+      "id": 5,
+      "name": "Movie 5",
+      "rating": 4.7,
+      "releasedDate": "2018-12-25",
+      "description": "Donec sit amet odio lacinia, varius justo eu, bibendum ipsum."
+    },
+    {
+      "id": 6,
+      "name": "Movie 6",
+      "rating": 3.5,
+      "releasedDate": "2017-09-20",
+      "description": "Suspendisse potenti. Fusce facilisis nec arcu ac scelerisque."
+    },
+    {
+      "id": 7,
+      "name": "Movie 7",
+      "rating": 4.8,
+      "releasedDate": "2016-04-12",
+      "description": "Duis dapibus felis nec odio consequat, sit amet dignissim metus tristique."
+    },
+    {
+      "id": 8,
+      "name": "Movie 8",
+      "rating": 3.9,
+      "releasedDate": "2015-02-03",
+      "description": "Praesent eu ex a odio luctus tincidunt ut a ante."
+    },
+    {
+      "id": 9,
+      "name": "Movie 9",
+      "rating": 4.6,
+      "releasedDate": "2014-07-28",
+      "description": "Vivamus ac tortor nec nunc efficitur tristique ac quis odio."
+    },
+    {
+      "id": 10,
+      "name": "Movie 10",
+      "rating": 4.1,
+      "releasedDate": "2013-03-17",
+      "description": "Aenean convallis, urna ac tristique venenatis, quam tellus facilisis purus, id semper felis lorem et odio."
+    },
+    {
+      "id": 11,
+      "name": "Movie 11",
+      "rating": 4.9,
+      "releasedDate": "2012-09-05",
+      "description": "Nunc tristique vitae orci ut rhoncus. Nullam in velit vel eros vulputate efficitur."
+    },
+    {
+      "id": 12,
+      "name": "Movie 12",
+      "rating": 4.3,
+      "releasedDate": "2011-06-14",
+      "description": "Curabitur vel feugiat purus. Phasellus nec bibendum quam."
+    },
+    {
+      "id": 13,
+      "name": "Movie 13",
+      "rating": 3.7,
+      "releasedDate": "2010-02-27",
+      "description": "Morbi fermentum venenatis lacus, ut viverra dui fermentum non."
+    },
+    {
+      "id": 14,
+      "name": "Movie 14",
+      "rating": 4.4,
+      "releasedDate": "2009-11-08",
+      "description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas."
+    },
+    {
+      "id": 15,
+      "name": "Movie 15",
+      "rating": 3.6,
+      "releasedDate": "2008-08-22",
+      "description": "Fusce sollicitudin odio eu dolor hendrerit, sit amet fringilla dui mattis."
+    },
+    {
+      "id": 16,
+      "name": "Movie 16",
+      "rating": 4.2,
+      "releasedDate": "2007-04-11",
+      "description": "Nullam eu nisi at odio bibendum posuere a sit amet sapien."
+    },
+    {
+      "id": 17,
+      "name": "Movie 17",
+      "rating": 4.7,
+      "releasedDate": "2006-01-05",
+      "description": "Suspendisse potenti. Fusce facilisis nec arcu ac scelerisque."
+    },
+    {
+      "id": 18,
+      "name": "Movie 18",
+      "rating": 3.9,
+      "releasedDate": "2005-10-19",
+      "description": "Donec sit amet odio lacinia, varius justo eu, bibendum ipsum."
+    },
+    {
+      "id": 19,
+      "name": "Movie 19",
+      "rating": 4.5,
+      "releasedDate": "2004-09-02",
+      "description": "Vestibulum fringilla augue ut nunc convallis, ac hendrerit dolor facilisis."
+    },
+    {
+      "id": 20,
+      "name": "Movie 20",
+      "rating": 4.0,
+      "releasedDate": "2003-06-28",
+      "description": "Sed rhoncus odio eget tortor facilisis venenatis."
+    }
+  ]
+  

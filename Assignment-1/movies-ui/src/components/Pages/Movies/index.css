@@ -1,0 +1,17 @@
+.movies-container {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .movies-container h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+
+.movie-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
